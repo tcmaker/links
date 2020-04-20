@@ -5,7 +5,7 @@ $links = array(
     'eb' => 'https://www.eventbrite.com/o/twin-cities-maker-440413464',
     'fb' => 'https://www.facebook.com/groups/TwinCitiesMaker/',
     'mailinglist' => 'https://tcmaker.us6.list-manage.com/subscribe?u=0608f3f8d455cd38f85d6db80&id=33f3b0bc76',
-    'map' => 'https://www.google.com/maps/place/3119+E+26th+St,+Minneapolis,+MN+55406/@44.9546948,-93.228322,17z/data=!4m5!3m4!1s0x87f628281fef1e8f:0xdd7ffd66e936b710!8m2!3d44.9546948!4d-93.226128?shorturl=1',
+    'map' => 'https://www.google.com/maps/place/3119+E+26th+St,+Minneapolis,+MN+55406/@44.9546948,-93.228322,17z/',
     'tasks' => 'https://jira.tcmaker.org/jira',
 );
 
