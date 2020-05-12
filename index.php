@@ -11,6 +11,7 @@ $links = array(
     'mailinglist' => 'https://tcmaker.us6.list-manage.com/subscribe?u=0608f3f8d455cd38f85d6db80&id=33f3b0bc76',
     'map' => 'https://www.google.com/maps/place/3119+E+26th+St,+Minneapolis,+MN+55406/@44.9546948,-93.228322,17z/',
     'tasks' => 'https://jira.tcmaker.org/jira',
+    'floorplan' => 'https://wiki.tcmaker.org/about_us/shop_floorplan/start',
 );
 
 function process_lookup($links) {
