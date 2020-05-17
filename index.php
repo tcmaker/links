@@ -13,6 +13,7 @@ $links = array(
     'tasks' => 'https://jira.tcmaker.org/jira',
     'floorplan' => 'https://wiki.tcmaker.org/about_us/shop_floorplan/start',
     'dash' => 'https://clubhouse.tcmaker.org/'
+    'dashboard' => 'https://clubhouse.tcmaker.org/'
 );
 
 function process_lookup($links) {
