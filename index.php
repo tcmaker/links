@@ -12,7 +12,6 @@ $links = array(
     'map' => 'https://www.google.com/maps/place/3119+E+26th+St,+Minneapolis,+MN+55406/@44.9546948,-93.228322,17z/',
     'tasks' => 'https://jira.tcmaker.org/jira',
     'floorplan' => 'https://wiki.tcmaker.org/about_us/shop_floorplan/start',
-    'dash' => 'https://clubhouse.tcmaker.org/'
     'dashboard' => 'https://clubhouse.tcmaker.org/'
 );
 
