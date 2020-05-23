@@ -6,18 +6,18 @@ $links = array(
     'eb' => 'https://www.eventbrite.com/o/twin-cities-maker-440413464',
     'fb' => 'https://www.facebook.com/groups/TwinCitiesMaker/',
     'introvid' => 'https://www.youtube.com/watch?v=vFndmW6c6BU',
-    'youtube' => 'https://www.youtube.com/user/twincitiesmaker/'
+    'youtube' => 'https://www.youtube.com/user/twincitiesmaker/',
     'lzrdocs' => 'https://wiki.tcmaker.org/documentation/laser_cutters/full_spectrum_laser_cutter',
     'lzrres' => 'https://tcmaker.org/laser-reservations/',
-    'laser' => 'https://tcmaker.org/laser-reservations/'
+    'laser' => 'https://tcmaker.org/laser-reservations/',
     'mailinglist' => 'https://tcmaker.us6.list-manage.com/subscribe?u=0608f3f8d455cd38f85d6db80&id=33f3b0bc76',
     'map' => 'https://www.google.com/maps/place/3119+E+26th+St,+Minneapolis,+MN+55406/@44.9546948,-93.228322,17z/',
     'tasks' => 'https://jira.tcmaker.org/jira',
     'floorplan' => 'https://wiki.tcmaker.org/about_us/shop_floorplan/start',
-    'dashboard' => 'https://clubhouse.tcmaker.org/'
-    'dash' => 'https://clubhouse.tcmaker.org/'
-    'conduct' => 'https://wiki.tcmaker.org/governance/twin_cities_maker_code_of_conduct'
-    'handbook' => 'https://wiki.tcmaker.org/rules/handbook'
+    'dashboard' => 'https://clubhouse.tcmaker.org/',
+    'dash' => 'https://clubhouse.tcmaker.org/',
+    'conduct' => 'https://wiki.tcmaker.org/governance/twin_cities_maker_code_of_conduct',
+    'handbook' => 'https://wiki.tcmaker.org/rules/handbook',
 );
 
 function process_lookup($links) {
