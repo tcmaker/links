@@ -18,6 +18,7 @@ $links = array(
     'dash' => 'https://clubhouse.tcmaker.org/',
     'conduct' => 'https://wiki.tcmaker.org/governance/twin_cities_maker_code_of_conduct',
     'handbook' => 'https://wiki.tcmaker.org/rules/handbook',
+    'storage' => 'https://wiki.tcmaker.org/governance/member_storage_policy?s[]=storage',
 );
 
 function process_lookup($links) {
