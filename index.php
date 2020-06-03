@@ -20,6 +20,7 @@ $links = array(
     'conduct' => 'https://wiki.tcmaker.org/governance/twin_cities_maker_code_of_conduct',
     'handbook' => 'https://drive.google.com/file/d/157XpX6GQTguO2m6wxzvH6rcKAfUWvzi_/view?usp=sharing',
     'storage' => 'https://wiki.tcmaker.org/governance/member_storage_policy?s[]=storage',
+    'tools' => 'https://wiki.tcmaker.org/tools_and_equipment/start?s[]=tools',
 );
 
 function process_lookup($links) {
