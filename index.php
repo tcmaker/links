@@ -23,6 +23,12 @@ $links = array(
     'tools' => 'https://wiki.tcmaker.org/tools_and_equipment/start?s[]=tools',
     'newmember' => 'https://www.eventbrite.com/e/82621042763',
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing'
+#    'elections' => ''
+#    'election' => ''
+#    'nomination' => ''
+#    'nominations' => ''
+#    'annualmeeting' => ''
+
 );
 
 function process_lookup($links) {
