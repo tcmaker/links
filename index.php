@@ -23,11 +23,9 @@ $links = array(
     'tools' => 'https://wiki.tcmaker.org/tools_and_equipment/start?s[]=tools',
     'newmember' => 'https://www.eventbrite.com/e/82621042763',
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing'
-#    'elections' => ''
-#    'election' => ''
-    'nomination' => 'https://docs.google.com/forms/d/e/1FAIpQLSeIiYHBvyR9fAm-dKJxr4r_rA2xQUjbGTzmIgslaE8AhX4CZw/viewform?usp=sf_link'
-    'nominations' => 'https://docs.google.com/forms/d/e/1FAIpQLSeIiYHBvyR9fAm-dKJxr4r_rA2xQUjbGTzmIgslaE8AhX4CZw/viewform?usp=sf_link'
-#    'annualmeeting' => ''
+    'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8'
+    'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8'
+    'annualmeeting' => 'https://jitsi.tcmaker.org/annualmeeting'
 
 );
 
