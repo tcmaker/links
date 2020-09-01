@@ -25,8 +25,8 @@ $links = array(
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing'
 #    'elections' => ''
 #    'election' => ''
-#    'nomination' => ''
-#    'nominations' => ''
+    'nomination' => 'https://forms.gle/WLqZSV2BZsskoeS59'
+    'nominations' => 'https://forms.gle/WLqZSV2BZsskoeS59'
 #    'annualmeeting' => ''
 
 );
