@@ -25,8 +25,7 @@ $links = array(
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing'
     'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8'
     'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8'
-    'annualmeeting' => 'https://jitsi.tcmaker.org/annualmeeting'
-
+    'annualmeeting' => 'https://umich.zoom.us/j/97643869193'
 );
 
 function process_lookup($links) {
