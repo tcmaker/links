@@ -22,10 +22,10 @@ $links = array(
     'storage' => 'https://wiki.tcmaker.org/governance/member_storage_policy?s[]=storage',
     'tools' => 'https://wiki.tcmaker.org/tools_and_equipment/start?s[]=tools',
     'newmember' => 'https://www.eventbrite.com/e/82621042763',
-    'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing'
-    'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8'
-    'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8'
-    'annualmeeting' => 'https://umich.zoom.us/j/97643869193'
+    'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing',
+    'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8',
+    'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8',
+    'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
 );
 
 function process_lookup($links) {
