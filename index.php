@@ -26,6 +26,7 @@ $links = array(
     'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8',
     'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8',
     'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
+    'boardmeeting' => 'https://jitsi.tcmaker.org/boardmeeting',
 );
 
 function process_lookup($links) {
