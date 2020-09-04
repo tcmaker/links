@@ -27,6 +27,7 @@ $links = array(
     'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8',
     'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
     'boardmeeting' => 'https://jitsi.tcmaker.org/boardmeeting',
+    'orientationmeeting' => 'https://umich.zoom.us/j/92196074687',
     'locksport' => 'https://jitsi.tcmaker.org/locksport',
     'openlocksport' => 'https://jitsi.tcmaker.org/locksport',
     'hamsterdance' => 'https://jitsi.tcmaker.org/locksport',
