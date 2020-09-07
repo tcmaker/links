@@ -32,6 +32,7 @@ $links = array(
     'openlocksport' => 'https://jitsi.tcmaker.org/locksport',
     'hamsterdance' => 'https://jitsi.tcmaker.org/locksport',
     'hamster.dance' => 'https://jitsi.tcmaker.org/locksport',
+    'openhouse' => 'https://jitsi.tcmaker.org/openhouse',
 );
 
 function process_lookup($links) {
