@@ -51,7 +51,7 @@ $links = array(
     //link to board meeting
     'boardmeeting' => 'https://jitsi.tcmaker.org/boardmeeting',
     //Link to New Member Orientation Meeting
-    'orientationmeeting' => 'https://jitsi.tcmaker.org/memberorientation',
+    'orientationmeeting' => 'https://zoom.us/j/95387691048?pwd=S21VWXVaMnh5amVKN3k3TGtsQlcxQT09',
     //Links to open locksport chang URLs for these two to Eventbright Entry 
     'locksport' => 'https://jitsi.tcmaker.org/locksport',
     'openlocksport' => 'https://jitsi.tcmaker.org/locksport',
