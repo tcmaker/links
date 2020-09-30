@@ -49,7 +49,7 @@ $links = array(
     //Link to 2020 annual meeting
     'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
     //link to board meeting
-    'boardmeeting' => 'https://www.google.com/url?q=https://zoom.us/j/94197613164?pwd%3DMlh2NGViNnBTb0NDWmlDSmlmMVc1QT09&sa=D&source=calendar&ust=1601935394894000&usg=AOvVaw08fzQaLh7tnyOk22LyNj8G',
+    'boardmeeting' => 'https://zoom.us/j/94197613164?pwd%3DMlh2NGViNnBTb0NDWmlDSmlmMVc1QT09&sa=D&source=calendar&ust=1601935394894000&usg=AOvVaw08fzQaLh7tnyOk22LyNj8G',
     //Link to New Member Orientation Meeting
     'orientationmeeting' => 'https://jitsi.tcmaker.org/memberorientation',
     //Links to open locksport chang URLs for these two to Eventbright Entry 
