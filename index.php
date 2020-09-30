@@ -49,9 +49,9 @@ $links = array(
     //Link to 2020 annual meeting
     'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
     //link to board meeting
-    'boardmeeting' => 'https://zoom.us/j/94197613164?pwd%3DMlh2NGViNnBTb0NDWmlDSmlmMVc1QT09&sa=D&source=calendar&ust=1601935394894000&usg=AOvVaw08fzQaLh7tnyOk22LyNj8G',
+    'boardmeeting' => 'https://zoom.us/j/94197613164?pwd=Mlh2NGViNnBTb0NDWmlDSmlmMVc1QT09',
     //Link to New Member Orientation Meeting
-    'orientationmeeting' => 'https://jitsi.tcmaker.org/memberorientation',
+    'orientationmeeting' => 'https://zoom.us/j/95387691048?pwd=S21VWXVaMnh5amVKN3k3TGtsQlcxQT09',
     //Links to open locksport chang URLs for these two to Eventbright Entry 
     'locksport' => 'https://jitsi.tcmaker.org/locksport',
     'openlocksport' => 'https://jitsi.tcmaker.org/locksport',
