@@ -60,13 +60,14 @@ $links = array(
     'openlocksportmeeting' => 'https://jitsi.tcmaker.org/locksport',
     'hamsterdance' => 'https://jitsi.tcmaker.org/locksport',
     'hamster.dance' => 'https://jitsi.tcmaker.org/locksport',
+    //Link to openhouse currently points to Virtual Meeting Room
     'openhouse' => 'https://jitsi.tcmaker.org/openhouse',
 );
 
 function process_lookup($links) {
     if (! array_key_exists('code', $_GET)) return;
     if (! array_key_exists($_GET['code'], $links)) return;
-    header($_SERVER['SERVER_PROTOCOL'] . ' 301 Moved Permenantly');
+    header($_SERVER['SERVER_PROTOCOL'] . ' 302 Temporary Redirect);
     header('Location: ' . $links[$_GET[code]]);
     exit();
 }
