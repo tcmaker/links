@@ -67,7 +67,7 @@ $links = array(
 function process_lookup($links) {
     if (! array_key_exists('code', $_GET)) return;
     if (! array_key_exists($_GET['code'], $links)) return;
-    header($_SERVER['SERVER_PROTOCOL'] . ' 302 Temporary Redirect);
+    header($_SERVER['SERVER_PROTOCOL'] . ' 302 Temporary Redirect ');
     header('Location: ' . $links[$_GET[code]]);
     exit();
 }
