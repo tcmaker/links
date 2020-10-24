@@ -43,9 +43,11 @@ $links = array(
     'newmember' => 'https://www.eventbrite.com/e/82621042763',
     //Dashboard into video hosted on google drive
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing',
-    //link to nominations form for 2020 board election
-    'nomination' => 'https://forms.gle/g99j2raRebfCc7VT8',
-    'nominations' => 'https://forms.gle/g99j2raRebfCc7VT8',
+    //link to nominations form for 2020 special board election
+    'nomination' => 'https://forms.gle/Rzexyi9UU1ZqUgTy6',
+    'nominations' => 'https://forms.gle/Rzexyi9UU1ZqUgTy6',
+    //link
+    'officernomination' => 'https://forms.gle/WH1TDj51fnRC2Xnn7',
     //Link to 2020 annual meeting
     'annualmeeting' => 'https://umich.zoom.us/j/97643869193',
     //link to board meeting
