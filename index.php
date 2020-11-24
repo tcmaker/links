@@ -64,6 +64,9 @@ $links = array(
     'hamster.dance' => 'https://jitsi.tcmaker.org/locksport',
     //Link to openhouse currently points to Virtual Meeting Room
     'openhouse' => 'https://jitsi.tcmaker.org/openhouse',
+    //Link to Incident reporting form **currently used for Covid Policy Compliance**
+    'incidentreport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
+ 
 );
 
 function process_lookup($links) {
