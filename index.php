@@ -66,6 +66,10 @@ $links = array(
     'openhouse' => 'https://jitsi.tcmaker.org/openhouse',
     //Link to Incident reporting form **currently used for Covid Policy Compliance**
     'incidentreport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
+    'IncidentReport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
+    'Incidentreport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
+    'incidentReport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
+    'INCIDENTREPORT' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
  
 );
 
