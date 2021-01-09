@@ -76,7 +76,7 @@ $links = array(
     'VENDING' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
     'Vendingmaching' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
     'vendingrefund' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
-     );
+);
 
 function process_lookup($links) {
     if (! array_key_exists('code', $_GET)) return;
