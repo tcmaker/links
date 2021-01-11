@@ -70,7 +70,12 @@ $links = array(
     'Incidentreport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
     'incidentReport' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
     'INCIDENTREPORT' => 'https://docs.google.com/forms/d/e/1FAIpQLScjshgKjlpjoH9R2T7RWGeZIi3ReffHXXbqY4YB0lsZ79APCQ/viewform?usp=sf_link',
- 
+    //Link to Vending Issue reporting form **currently used for soda machine**
+    'vending' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
+    'Vending' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
+    'VENDING' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
+    'Vendingmaching' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
+    'vendingrefund' => 'https://docs.google.com/forms/d/e/1FAIpQLSe5ZrLdY7TjwbOrxrRJsR-0_XKpfLXPsz_6rYplp0Os0pBSaA/viewform?usp=sf_link',
 );
 
 function process_lookup($links) {
