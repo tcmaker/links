@@ -44,8 +44,8 @@ $links = array(
     //Dashboard into video hosted on google drive
     'dashboardintro' => 'https://drive.google.com/file/d/1LjQW2gIDViRFW4-mm0BVPhbxD7B7d_Ne/view?usp=sharing',
     //link to nominations form for 2020 special board election
-    'nomination' => 'https://forms.gle/Rzexyi9UU1ZqUgTy6',
-    'nominations' => 'https://forms.gle/Rzexyi9UU1ZqUgTy6',
+    'nomination' => 'https://docs.google.com/forms/d/e/1FAIpQLSf1aOUXglgAfynxuV4spBXO8Uq9k28ef6tRXs96NES7mS-tkQ/viewform?usp=sf_link',
+    'nominations' => 'https://docs.google.com/forms/d/e/1FAIpQLSf1aOUXglgAfynxuV4spBXO8Uq9k28ef6tRXs96NES7mS-tkQ/viewform?usp=sf_link',
     //link
     'officernomination' => 'https://forms.gle/WH1TDj51fnRC2Xnn7',
     //Link to 2020 annual meeting
